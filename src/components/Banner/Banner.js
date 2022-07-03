@@ -16,7 +16,8 @@ const Banner = () => {
                                 <div className="banner-text">
                                     <h1>ProgrammingChamp</h1>
                                     <h4>learn | code | career</h4>
-                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque assumenda, quos commodi harum rem molestias error tenetur atque ipsum ad?</p>
+                                    <p className='m-0'>Effectively learn coding from our awesome experienced Developers.</p>
+                                    <p>Let's build up your career easier!</p>
                                     <button className='custom-btn banner-btn'>View Courses</button>
                                 </div>
                             </div>

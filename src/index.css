@@ -16,5 +16,25 @@ body {
   text-transform: uppercase;
   word-spacing: 5px;
   letter-spacing: 1px;
-  font-size: 17px;
+}
+
+.custom-btn:hover {
+  color: rgb(235, 235, 235);
+}
+
+.custom-btn2 {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #2197F9;
+  color: white;
+  border-radius: 50px;
+  font-family: 'Noto Sans', sans-serif;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+}
+
+.custom-btn2:hover {
+  color: rgb(235, 235, 235);
 }
