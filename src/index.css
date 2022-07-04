@@ -2,7 +2,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(246, 246, 246);
+  /* background-color: rgb(246, 246, 246); */
 }
 
 .custom-btn {
@@ -16,10 +16,11 @@ body {
   text-transform: uppercase;
   word-spacing: 5px;
   letter-spacing: 1px;
+  box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.389);
 }
 
 .custom-btn:hover {
-  color: rgb(235, 235, 235);
+  color: rgb(241, 241, 241);
 }
 
 .custom-btn2 {
@@ -36,5 +37,13 @@ body {
 }
 
 .custom-btn2:hover {
-  color: rgb(235, 235, 235);
+  color: rgb(241, 241, 241);
+}
+
+.section-title {
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Rubik', sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
 }

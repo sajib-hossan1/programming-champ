@@ -7,7 +7,7 @@ import bannerRight from '../../images/banner.png'
 const Banner = () => {
     return (
         <>
-            <section className='banner-container'>
+            <section id='home' className='banner-container'>
                 <Header></Header>
                 <main className='banner-section'>
                     <div className="container">

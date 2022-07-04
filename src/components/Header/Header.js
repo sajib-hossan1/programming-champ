@@ -20,10 +20,10 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav ms-auto">
                         <a className="nav-link" href='#home'>Home</a>
-                        <a className="nav-link" href="#home">Features</a>
-                        <a className="nav-link" href="#home">Courses</a>
-                        <a className="nav-link" href="#home">Contact</a>
-                        <a className="nav-link" href="#home">Faq</a>
+                        <a className="nav-link" href="#features">Features</a>
+                        <a className="nav-link" href="#courses">Courses</a>
+                        <a className="nav-link" href="#contact">Contact</a>
+                        <a className="nav-link" href="#caq">Faq</a>
                     </div>
                     </div>
                 </div>
