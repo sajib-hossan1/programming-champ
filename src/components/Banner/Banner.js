@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../Header/Header';
 import './Banner.css'
 
-import bannerRight from '../../images/banner.png'
+import bannerRight from '../../images/banner/banner.png'
 
 const Banner = () => {
     return (

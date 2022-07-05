@@ -1,0 +1,62 @@
+.discount-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.741), #1f9af938) ,url('../../images/coding.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30px 0;
+}
+
+.discount-details {
+    color: white;
+}
+
+.slider-container {
+    padding: 20px;
+}
+
+.discount-details {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.discount-details h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+
+.discount-details p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: rgb(199, 199, 199);
+}
+
+.discount-details .discounts-btn {
+    padding: 9px 18px;
+}
+
+.single-slider{
+    text-align: center;
+}
+
+.single-slider img {
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.single-slider p {
+    color: white;
+    background-color: #1F9CF9;
+    border-radius: 4px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    padding: 5px 0;
+}
+
+@media screen and (max-width: 992px) {
+    .discount-details {
+    margin-top: 0px;
+    }
+}
