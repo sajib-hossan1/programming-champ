@@ -47,6 +47,11 @@
     color: #FB9533;
 }
 
+.login-btn {
+    padding: 0px 20px;
+    font-weight: 500;
+}
+
 @media screen and (min-width: 992px) {
     .navbar-icon {
         opacity: 0;
