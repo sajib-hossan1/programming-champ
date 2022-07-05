@@ -1,0 +1,50 @@
+#faq {
+    background-color: #F4F6FF;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.accordation-container {
+    margin-top: 120px;
+}
+
+.accordion-button {
+    font-family: 'Noto Sans', sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.accordion-body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.faq-img {
+    text-align: center;
+    padding: 40px;
+}
+
+.faq-img img {
+    width: 100%;
+    animation: bannerImg 3s ease-in-out infinite;
+}
+
+
+@keyframes bannerImg {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(18px);
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .accordation-container {
+        margin-top: 20px;
+    }
+}
