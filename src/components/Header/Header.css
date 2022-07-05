@@ -3,14 +3,14 @@
     padding: 12px 0;
 }
 
-.navbar-brand  {
+.navbar-brand {
     font-family: 'Caveat', cursive;
     font-weight: 400;
     font-size: 30px;
     color: rgb(255, 255, 255);
 }
 
-.navbar-brand:hover  {
+.navbar-brand:hover {
     color: white;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .login-btn {
-    padding: 0px 20px;
+    padding: 6px 20px;
     font-weight: 500;
 }
 
@@ -62,6 +62,7 @@
     .navbar {
         border-bottom: .5px solid rgba(255, 255, 255, 0.253);
     }
+
     .navbar-nav a {
         margin-left: 0px;
     }
