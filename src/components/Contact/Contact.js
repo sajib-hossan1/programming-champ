@@ -10,7 +10,7 @@ const Contact = () => {
                     <div className="col-md-12 col-lg-6">
                         <div className="contact-card-left">
                             <h3>Get In Touch</h3>
-                            <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque, quaerat.</span>
+                            <span>If you have any query about us, feel free to message us.</span>
                             <div className='mb-2'>
                                 <i class="fa-solid fa-phone"></i>
                                 <span>Phone : +21 123456789</span>

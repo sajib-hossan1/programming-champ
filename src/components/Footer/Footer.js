@@ -29,7 +29,7 @@ const Footer = () => {
                     </div>
                     <div className="col-lg-4 col-md-6 mx-auto">
                         <h3 className='mb-3'>Our Payment Method</h3>
-                        <a href="#app"><img src={ssl} alt="googleApp" className='img-fluid' /></a>
+                        <a href="#ssl"><img src={ssl} alt="ssl" className='img-fluid' /></a>
                     </div>
                 </div>
                 <p className='copyright-text'>&copy; All Rights Reserved By ProgrammingChamp | 2022</p>
