@@ -1,0 +1,31 @@
+.footer-container {
+    background: linear-gradient(to right, #18A6FC, #485EF0);
+    background-color: gradi;
+    padding-top: 130px;
+    padding-bottom: 20px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.footer-one h2 {
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+.footer-one p {
+    color: rgb(245, 245, 245);
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer-links a{
+    color: rgb(245, 245, 245);
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+    width: max-content;
+}
+
+.copyright-text {
+    text-align: center;
+    margin: 0;
+    padding-top: 40px;
+}
