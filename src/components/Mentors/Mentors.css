@@ -1,0 +1,24 @@
+.mentors-container {
+    padding-top: 30px;
+    margin-bottom: 70px;
+}
+
+.mentor-card {
+    background-color: #F4F6FF;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+.mentor-card img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.mentor-card h3 {
+    color: #F1532E;
+    margin: 0;
+}
+
+.mentor-card h6 {
+    color: #1F9CF9;
+}

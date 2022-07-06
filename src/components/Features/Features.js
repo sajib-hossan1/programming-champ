@@ -8,7 +8,7 @@ import videoImg from '../../images/featuresImg/video.png'
 const Features = () => {
     return (
         <main id='features'>
-            <h1 className='section-title'>Features</h1>
+            <h1 className='section-title'>Our Features</h1>
             <div className="container mt-4">
                 <div className="row g-4">
                     <div className="col-xl-3 col-lg-4 col-md-6 mx-auto">

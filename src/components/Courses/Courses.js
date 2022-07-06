@@ -10,7 +10,7 @@ import python from '../../images/coursesImg/python.jpg'
 const Courses = () => {
     return (
         <main id='courses'>
-            <h1 className="section-title">Courses</h1>
+            <h1 className="section-title">Our Courses</h1>
             <div className="container">
                 <div className="row g-4">
                     <div className="col-lg-4 col-md-6 mx-auto">

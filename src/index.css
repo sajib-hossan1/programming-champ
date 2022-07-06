@@ -51,10 +51,20 @@ body {
   color: rgb(241, 241, 241);
 }
 
+
+/* all section title */
 .section-title {
   text-align: center;
   padding: 20px 0;
   font-family: 'Rubik', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
+  word-spacing: 8px;
+}
+
+
+/* slick slider arrow color */
+.slick-prev:before,
+.slick-next:before {
+  color: #1F9CF9 !important;
 }

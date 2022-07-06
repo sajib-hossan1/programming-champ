@@ -11,6 +11,7 @@ import web from '../../images/coursesImg/web.jpg'
 import app from '../../images/coursesImg/app.jpg'
 import python from '../../images/coursesImg/python.jpg'
 
+
 const Discount = () => {
     const settings = {
         dots: true,
