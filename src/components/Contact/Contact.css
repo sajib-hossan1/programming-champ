@@ -1,0 +1,30 @@
+.contact-card-left {
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.contact-card-left span {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.contact-card-left i {
+    color: #1F9CF9;
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.contact-btn {
+    padding: 7px 18px;
+}
+
+.contact-from-container {
+    height: 300px;
+}
+
+.container-from {
+    background-color: #F4F6FF;
+    padding: 20px 30px;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+}
