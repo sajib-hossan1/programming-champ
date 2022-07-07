@@ -1,6 +1,6 @@
 # ProgrammingChamp
 
-> A online modern technology learning platfrom
+> A online based modern technology learning platfrom.
 > Live demo [_here_](https://programmingchamp.netlify.app/).
 
 ## Technologies Used
@@ -9,7 +9,7 @@
 - CSS3
 - Bootstrap5
 - React 18
-- React slider
+- React slick slider
 
 ## Features
 
