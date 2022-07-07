@@ -32,3 +32,14 @@
     border-radius: 10px;
     font-family: 'Raleway', sans-serif;
 }
+
+
+@media screen and (max-width:412px) {
+    .contact-card-left span {
+        font-size: 15px;
+    }
+
+    .contact-card-left i {
+        font-size: 17px;
+    }
+}
